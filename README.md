@@ -37,7 +37,7 @@ Este repositório é um **fork pessoal** mantido por [Rodrigo Moura](https://git
 - 🌐 **Meu site:** [mouracode.multasgo.com.br](https://mouracode.multasgo.com.br)
 - 💻 **Meu GitHub:** [github.com/Rodrigorm33](https://github.com/Rodrigorm33)
 - 💼 **LinkedIn:** [Rodrigo Moura](https://www.linkedin.com/in/rodrigo-moura-38059a237/)
-- 🚀 **Produto em produção:** [MultasGO](https://github.com/Rodrigorm33/MultasGO)
+- 🚀 **Produto em produção:** [MultasGO](https://github.com/Rodrigorm33/MultasGO) (repositório) · [multasgo.com.br](https://multasgo.com.br) (web)
 
 ---
 
